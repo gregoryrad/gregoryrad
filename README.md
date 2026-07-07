@@ -1,16 +1,13 @@
-## Hi there 👋
+# Greg Radcliffe
 
-<!--
-**gregoryrad/gregoryrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior UX/UI Designer specializing in design systems, from token architecture in Figma to production React components.
 
-Here are some ideas to get you started:
+## Current work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Cedar Design System](https://cedar-ds-documentation.vercel.app)** — A token-based design system with 23 components and 460+ variants. Designed in Figma, implemented in React, documented with a custom Astro site built on its own tokens.
+
+**[Cedar Ops](https://cedar-ops-rust.vercel.app)** — A design ops dashboard built entirely with Cedar's React components. Exercises 22 of 23 Cedar components across 4 views.
+
+**[DayLog](https://daylog-mu.vercel.app)** — A quick-tap health logging PWA for iPhone, built on Cedar's token system.
+
+**[Portfolio](https://greg-radcliffe.com)** · **[LinkedIn](https://linkedin.com/in/gregradcliffe)**
