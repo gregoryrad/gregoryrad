@@ -1,4 +1,4 @@
-# Greg Radcliffe
+# Gregory Radcliffe
 
 Senior UX/UI Designer specializing in design systems, from token architecture in Figma to production React components.
 
